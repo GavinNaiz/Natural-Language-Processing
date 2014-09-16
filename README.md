@@ -12,4 +12,5 @@ POS-practical.py - Python code
    Centering algorithm for pronoun resolution. \n
 
 LPIIExam.py - Python code
+
 Exam.pdf - report
